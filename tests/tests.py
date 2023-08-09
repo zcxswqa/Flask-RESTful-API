@@ -210,4 +210,3 @@ def device_delete_tests(testing_headers):
 
 
 menu()
-
