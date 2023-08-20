@@ -63,6 +63,9 @@ def testings():
         elif choice == "7":
             device_delete_tests(headers)
 
+        elif choice == "8":
+            print("Goodbye.")
+
         else:
             print("\nInvalid input, try again...\n")
 
